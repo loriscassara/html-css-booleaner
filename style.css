@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+ }
+ 
+ header {
+     background-color: cornflowerblue;
+     background-image: url(img/pattern.png);
+ }
+ 
+ .logo {
+     width: 15%;
+ }
+ 
+ main h1 {
+ 
+ }
